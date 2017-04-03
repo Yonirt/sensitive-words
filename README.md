@@ -1,2 +1,2 @@
 # sensitive-words
-Project to playaround with publishing and maintaining tidy consumable packages to npm
+Project to playaround with publishing and maintaining tidy consumable packages to npm.

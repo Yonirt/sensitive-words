@@ -519,14 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 104,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -599,8 +591,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/COURSES/Development/sensitive-words"
+	],
 	"file_history":
 	[
+		"/D/WORK/ACHARA_SETHU/Development/webpack.config.js",
 		"/D/COURSES/Development/ReduxSimpleStarter-Redux_Blog/src/components/posts_new.js",
 		"/D/COURSES/Development/ReduxSimpleStarter-Redux_Blog/src/components/app.js",
 		"/D/COURSES/Development/ReduxSimpleStarter-Redux_Advanced_Part2/webpack.config.js",
@@ -727,8 +724,7 @@
 		"/D/WORK/Development/Cabaana_FrontEnd/sources/src/components/huts/hut-thread-item-title.jsx",
 		"/D/WORK/Development/Cabaana_FrontEnd/sources/src/routes.jsx",
 		"/D/WORK/Development/Cabaana_FrontEnd/sources/src/components/huts/hut-thread-item.jsx",
-		"/D/WORK/Development/Cabaana_FrontEnd/sources/src/components/huts/hut-sticky-thread.jsx",
-		"/D/WORK/Development/Cabaana_FrontEnd/sources/sass/_sticky_thread.scss"
+		"/D/WORK/Development/Cabaana_FrontEnd/sources/src/components/huts/hut-sticky-thread.jsx"
 	],
 	"find":
 	{
@@ -901,40 +897,17 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"folders":
+	[
+		{
+			"path": "D:\\COURSES\\Development\\sensitive-words"
+		}
+	],
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 104,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -974,7 +947,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "sensitive-words.sublime-project",
+	"project": "",
 	"replace":
 	{
 		"height": 50.0
